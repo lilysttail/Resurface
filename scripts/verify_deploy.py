@@ -30,7 +30,7 @@ import urllib.error
 import urllib.request
 from urllib.parse import urlparse
 
-DEFAULT_REPO = "https://github.com/lilysttail/aml-textual-memory"
+DEFAULT_REPO = "https://github.com/lilysttail/Resurface"
 DEFAULT_TAG = "submission-1"
 _HEX12 = re.compile(r"[0-9a-f]{12}")
 

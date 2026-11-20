@@ -1,4 +1,10 @@
-# Agent Memory Challenge — Textual Memory track
+# Resurface
+
+*Agent Memory Challenge — Textual Memory track*
+
+**#1 on the Agent Memory Leaderboard (AML) Cycle 2 — Open-source Methods · Textual Memory track, score 61.22** ([official results](https://agentmemoryleaderboard.ai/results/cycle-2/#academic-textual), 2026-11-19).
+
+![Agent Memory Leaderboard, Cycle 2: Resurface, first place, Textual Memory track, Open-source Methods, score 61.22](docs/aml_cycle2_rank1_badge.png)
 
 A memory retrieval service for long multi-session conversations: it stores what
 was said (who said it, when, in which session, which turn) and gives back
